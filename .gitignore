@@ -1,0 +1,7 @@
+/.vscode
+/RedisAPI/bin
+/RedisAPI/obj
+/RedisAPITest/bin
+/RedisAPITest/obj
+appsettings*
+launchsettings*
